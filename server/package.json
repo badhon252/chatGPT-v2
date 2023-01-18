@@ -1,0 +1,19 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "I made chatGPT using 'openaiAPI' with vanilla JavaScript,  Experience the Future of Chatting with ChatGPT Version 2.0!",
+    "type": "module",
+    "scripts": {
+        "server": "nodemon server"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "nodemon": "^2.0.20",
+        "openai": "^3.1.0"
+    }
+}
