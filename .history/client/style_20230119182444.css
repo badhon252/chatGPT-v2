@@ -144,7 +144,6 @@ form img {
     color: #fff;
     font-weight: 700;
     margin: auto auto;
-    text-align: center;
 }
 
 .Chat_title h1 {
@@ -153,8 +152,4 @@ form img {
 
 .Chat_title h2 {
     font-size: 1rem;
-}
-
-.Chat_title h2 a {
-    color: cyan;
 }
