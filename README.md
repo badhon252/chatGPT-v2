@@ -1,6 +1,6 @@
 # chatGPT-v2
 
-## "Experience the Future of Chatting with ChatGPT Version 2.0!"
+## "Whenever there's a issue in the chatGPT's original website because of traffic, i don't wanted to be awaited, and that's why i make this cloned website to solve my problem quickly"
 
 ![Screen-1](./client/assets/screen1.png "This is the landing screen")
 
